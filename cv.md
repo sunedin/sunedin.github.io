@@ -8,7 +8,7 @@ phone:
 contact_name: OleVik.net/Contact
 contact_link: http://olevik.net/contact
 linkedin_name: LinkedIn/OleHHVik
-linkedin_link: https://no.linkedin.com/in/olehhvik
+linkedin_link: https://no.linkcv.mdedin.com/in/olehhvik
 experience:
   - years: 2015-
     name: Research Assistant
