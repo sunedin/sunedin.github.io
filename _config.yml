@@ -13,8 +13,8 @@ menu:
  - page: Research Projects
    url: /research
    links:
-    - title: "Project One"
-      url: "#project-one"
+    - title: "Hydrogen's Value in the Energy System (HYVE)"
+      url: "http://www.hyve.org.uk/"
     - title: "Project Two"
       url: "#project-two"
     - title: "Project Three"
