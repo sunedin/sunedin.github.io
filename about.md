@@ -1,12 +1,9 @@
 ---
 title: "About"
 summary: "About this page."
-date: 2016-04-13
+date: 2016-04-24
 layout: default
 ---
-
-"About" introductory paragraph.
-
 
 Dr. Wei Sun.  
 Multi-vector energy system Research Associate  
