@@ -6,8 +6,8 @@ cv_subtitle: Energy network analyst
 ---
 >location: Edinburgh  
 >phone:   
->contact_name: 
+>contact_name:  
 >contact_link:   
 >linkedin_name:   
->linkedin_link:_   
+>linkedin_link:   
 
