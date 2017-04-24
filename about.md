@@ -10,4 +10,4 @@ Multi-vector energy system Research Associate
 School of Engineering  
 Institute for Energy Systems  
 
-![Researcher Portrait](assets/images/luxun.jpg "Wei Sun")
+![Researcher Portrait](assets/images/ws.jpg "Wei Sun")
