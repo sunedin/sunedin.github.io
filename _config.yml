@@ -39,14 +39,14 @@ menu:
  - page: Accolades
    url: /accolades
 menu_external:
- - title: OleVik.me
-   url: "http://olevik.me/"
+ - title: randyweisun.com
+   url: "http://randyweisun.com/"
  - title: Research Gate
-   url: "https://www.researchgate.net/profile/Ole_Vik"
+   url: "http://randyweisun.com/"
  - title: LinkedIn
-   url: "https://no.linkedin.com/in/olehhvik"
+   url: "http://randyweisun.com/"
  - title: Twitter
-   url: "https://twitter.com/olehhv"
+   url: "http://randyweisun.com/"
 mathjax: false
 markdown: kramdown
 encoding: utf-8

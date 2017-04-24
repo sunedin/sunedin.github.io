@@ -2,6 +2,7 @@
 title: CV
 summary: ""SUN WEI's Resume"
 cv_title: "SUN WEI
+layout: cv
 cv_subtitle: Energy network analyst
 location: Edinburgh
 phone: 
