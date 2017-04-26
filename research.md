@@ -7,6 +7,6 @@ layout: default
 
 "Research" introductory paragraph.
 
-[## Hydrogen's Value in the Energy System (HYVE)##] ("http://www.hyve.org.uk/)
+##[ Hydrogen's Value in the Energy System (HYVE)]("http://www.hyve.org.uk/)
 
 to added
