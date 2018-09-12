@@ -6,8 +6,8 @@ layout: cv
 cv_subtitle: Energy network analyst
 location: Edinburgh
 phone: 
-linkedin_name: LinkedIn/weisun
 linkedin_link:https://www.linkedin.com/feed/
+
 ---
 
 > 2015 graduate with a PhD’s Degree in Electrical Engineering from the University of Edinburgh. Currently a Research Assistant at the University of Edinburgh.
