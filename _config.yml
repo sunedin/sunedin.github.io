@@ -40,13 +40,13 @@ menu:
    url: /accolades
 menu_external:
  - title: randyweisun.com
-   url: "http://randyweisun.com/"
+   url: "https://www.eng.ed.ac.uk/about/people/mr-wei-sun"
  - title: Research Gate
-   url: "http://randyweisun.com/"
+   url: "https://www.researchgate.net/profile/Wei_Sun111"
  - title: LinkedIn
-   url: "http://randyweisun.com/"
- - title: Twitter
-   url: "http://randyweisun.com/"
+   url: "https://www.linkedin.com/feed/"
+# - title: Twitter
+#   url: "http://randyweisun.com/"
 mathjax: false
 markdown: kramdown
 encoding: utf-8
